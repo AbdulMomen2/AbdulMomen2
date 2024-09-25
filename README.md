@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Momen :
+# 👋 Hi, I’m Momen :)
 I’m an experienced Indie Data Science Engineer and Digital Marketing Specialist, passionate about using data to create real impact. I focus on building practical solutions for real-world problems, like improving marketing campaigns, creating predictive models, and offering personalized experiences. My work connects data science with business strategy to get meaningful results.<br><br>I’m skilled in web scraping, data visualization, and using advanced analytics to turn complex data into useful insights. By blending my technical skills with digital marketing know-how, I help drive growth and innovation.
 
 
