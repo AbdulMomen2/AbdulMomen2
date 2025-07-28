@@ -1,6 +1,29 @@
 # 👋 Hi, I’m Momen :)
-I’m an experienced Indie Data Science Engineer and Digital Marketing Specialist, passionate about using data to create real impact. I focus on building practical solutions for real-world problems, like improving marketing campaigns, creating predictive models, and offering personalized experiences. My work connects data science with business strategy to get meaningful results.<br><br>I’m skilled in web scraping, data visualization, and using advanced analytics to turn complex data into useful insights. By blending my technical skills with digital marketing know-how, I help drive growth and innovation.
+I am passionate AI Engineer and deep learning enthusiast from Dhaka, Bangladesh 🇧🇩. I specialize in building end-to-end AI applications using LLMs, NLP, and reinforcement learning — with a strong focus on solving real-world problems across mental health, content verification, and more.
 
+🔬 Currently, I’m a Research Assistant at AMIR Lab, and I lead AI projects involving multimodal systems, emotion-aware agents, and generative content detection. I’ve also led teams in multiple national and international hackathons, placing in the top tier in AI competitions like WICE, Harvard HSIL Hackathon, and Brain Station 23.
+
+⚙️ Tech I Work With:
+
+Languages & Models: Python, Transformers, LLMs (e.g., Deepseek, BERT, RoBERTa)
+
+Frameworks: HuggingFace, PyTorch, TensorFlow, Gradio
+
+Cloud & Tools: AWS, GCP, GitHub, CI/CD
+
+Specialties: NLP, Multimodal Learning, AI Agents, RL, Model Optimization
+
+🚀 Projects:
+
+🧠 Mental Health AI Assistant w/ emotion detection & LLM
+
+📷 AI-Generated Content Detector using multimodal fusion
+
+🔎 Hate Speech Detection using traditional + transformer models
+
+📚 I'm also deeply invested in AI research — frequently exploring topics in multimodal learning, retrieval-augmented generation (RAG), and agentic workflows.
+
+Let’s connect or collaborate on cutting-edge AI ideas!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/abdulmomen11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdul_momen01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulmomen01/) 
