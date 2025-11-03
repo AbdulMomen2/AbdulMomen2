@@ -15,8 +15,6 @@ Beyond engineering, I’m fascinated by how technology intersects with human beh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbdulMomen2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbdulMomen2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdulMomen2&icon=7&color=0)](https://visitcount.itsvg.in)
