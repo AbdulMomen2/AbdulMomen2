@@ -1,13 +1,10 @@
 # 👋 Hi, I’m Momen :)
-I am a Computer Science undergraduate driven by a deep curiosity for artificial intelligence and its ability to solve meaningful problems. My journey began with simple coding experiments, but quickly evolved into a full pursuit of AI engineering — where I found the perfect balance between creativity, logic, and impact.
-
-Over the past few years, I’ve worked across multiple areas of AI, from natural language processing and multimodal learning to reinforcement learning and agentic AI systems. I enjoy building complete solutions not just models, but entire pipelines that include data processing, model training, evaluation, deployment, and continuous integration. My recent work focuses on developing intelligent systems that can reason, adapt, and interact, such as retrieval-augmented generation pipelines and emotion-aware AI agents.
+Over the past few years, I’ve worked across multiple areas of AI, from natural language processing and multimodal learning to reinforcement learning and agentic AI systems. I enjoy building complete solutions not just models, but entire pipelines that include data processing, model training, evaluation, deployment, and continuous integration. 
 
 Hackathons have been a big part of my growth. I’ve led and collaborated with teams in national and international competitions, including events hosted by WICE, Harvard HSIL, and Brain Station 23. These experiences taught me how to design under pressure from drafting architectures on a whiteboard to coding and deploying production-ready prototypes within tight deadlines.
 
 Beyond engineering, I’m fascinated by how technology intersects with human behavior and business strategy. I often read about digital transformation, product design, and personal development to understand how great ideas turn into scalable, user-centered solutions.
 
-Today, I focus on bridging research and application — transforming ideas from papers into tools that make a difference. My interests span LLMs, cross-modal fusion, RAG, and scalable AI infrastructure. I’m always eager to learn, build, and collaborate on projects that push the boundaries of what AI can achieve.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/abdulmomen11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdul_momen01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/AbdulMomen01/) 
